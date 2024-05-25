@@ -1,6 +1,6 @@
 * {
     margin: 50px;
-    padding: 0;
+    padding: 0px;
     font-family: system-ui;
     box-sizing: border-box;
     color: beige;
@@ -25,12 +25,13 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin-left: 200px;
-    margin-right: 200px;
-    font-size: 20px;
+    margin-left: 250px;
+    margin-right: 250px;
+    font-size: 22px;
+    min-width: 400px;
 }
 
 #h1 {
     font-size: 50px;
-    margin: 100px;
 }
+
